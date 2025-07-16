@@ -63,5 +63,5 @@ python -m streamlit run app.py
 Untuk menjalankan aplikasi ini secara lokal, pastikan telah menginstal dependensi berikut:
 
 ```
-pip install tensorflow numpy matplotlib seaborn opencv-python pillow streamlit
+pip install joblib streamlit pandas numpy pillow tensorflow
 ```
