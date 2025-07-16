@@ -54,9 +54,9 @@ python -m streamlit run app.py
 
 ## Preview
 
-![Screenshot 1](images/Screenshot_(491).png)
+![Screenshot 1](images/Screenshot_(493).png)
 
-![Screenshot 2](images/Screenshot_(492).png)
+![Screenshot 2](images/Screenshot_(494).png)
 
 ## Library yang Dibutuhkan
 
